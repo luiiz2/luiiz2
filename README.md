@@ -1,11 +1,13 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1   <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=white&center=true&width=435&lines=Hello+World;Welcome+to+my+GitHub!;Aspiring+Developer" alt="Typing SVG" /></h1></summary>
 </div>
 
 <!-- Presentation -->
-<p>
+</p>
+
   - Hi 👋, I'm Luiz! A passionate Data Science student from Brazil.
 
   - 🌱 I’m currently studying Data Science and Computer Science at Unifacisa
@@ -27,7 +29,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-artur-conceição-43b1ab1ba/)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=luiiz2&show_icons=true&theme=gotham)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=luiiz2&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiiz2&layout=compact&theme=dracula)
 
 <!-- Portfolio -->
 ## Portfolio:
@@ -55,5 +58,9 @@
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </div>
-  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" />
+</p>
+
 
