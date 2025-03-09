@@ -2,7 +2,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=white&center=true&width=435&lines=Hello+World;Welcome+to+my+GitHub!;Aspiring+Developer" alt="Typing SVG" /></h1></summary>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF5E99&center=true&width=435&lines=Hello+World;Welcome+to+my+GitHub!;Aspiring+Developer" alt="Typing SVG" /></h1></summary>
 </div>
 
 <!-- Presentation -->
@@ -29,8 +29,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-artur-conceição-43b1ab1ba/)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=luiiz2&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiiz2&layout=compact&theme=dracula)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=luiiz2&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiiz2&layout=compact&theme=github_dark)
 
 <!-- Portfolio -->
 ## Portfolio:
